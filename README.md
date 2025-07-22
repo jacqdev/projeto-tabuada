@@ -1,41 +1,42 @@
+# 🧠 Quiz da Tabuada com Erros
 
-# 🧠 Projeto Tabuada Quiz
-
-Um jogo interativo em **Java** para treinar a tabuada de forma divertida e desafiadora — com resultados que podem conter erros propositais para testar sua atenção!
-
----
+Um quiz interativo que desafia sua atenção e raciocínio! O jogo exibe contas de multiplicação com possíveis erros, e você precisa decidir: está certo ou está errado?
 
 ## 🚀 Funcionalidades
 
-- ✅ Perguntas de multiplicação de 1 a 10
-- ❌ Resultados incorretos gerados aleatoriamente
-- 🤔 Jogador responde se o resultado está certo ou errado
-- 🧮 Pontuação exibida no final com mensagem personalizada
+- Geração aleatória de tabuada com até 10 perguntas
+- Alguns resultados possuem erros propositalmente
+- Feedback instantâneo para cada resposta
+- Placar final com avaliação personalizada
+
+## 🖼️ Visual
+
+![Screenshot do jogo](caminho/para/imagem-exemplo.png) <!-- Opcional: adicione uma captura de tela depois -->
+
+## 📂 Como usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/jacqdev/tabuada-quiz.git
+🛠️ Tecnologias usadas
+- HTML5
+- CSS3
+- JavaScript
+💡 Ideias futuras
+- Adicionar modo desafio com tempo ⏱️
+- Salvar histórico de partidas 📊
+- Estilizar com temas personalizáveis 🎨
+🙋‍♂️ Autor
+Desenvolvido por Thiago, com apoio do Copilot da Microsoft 💙
+
 
 ---
 
-## 💻 Como executar
+Você pode copiar esse conteúdo e colar direto no arquivo `README.md`. Se quiser, posso te ajudar a gerar uma imagem de capa estilizada do jogo pra colocar ali no `Visual`. Ou posso adaptar esse README com emojis extras, link de demo, ou instruções em inglês.
 
-1. Compile o arquivo:
-   ```bash
-   javac TabuadaQuiz.java
-   
-   java TabuadaQuiz
+Como quer deixar esse projeto ainda mais profissional? 😄🚀👨‍💻
 
-📈 Melhorias futuras
-- 🎮 Modo treino sem erros propositais
-- 🔢 Níveis de dificuldade: fácil, médio, difícil
-- ❤️ Sistema de vidas ou tentativas
-- 📁 Salvamento de histórico de desempenho
-- 🎨 Versão com interface gráfica (JavaFX ou Swing)
-
-👨‍💻 Autor
-jacqueline, projeto criado para praticar lógica de programação e interatividade com o usuário via terminal.
-Repositório:github.com//jacqdev/projeto-tabuada
-Quer contribuir, testar ou sugerir algo? Fique à vontade!
-
-
-
-
-
+👨‍💻 GitHub: [github.com/JacqDev](https://github.com/JacqDev)  
+🌐 Site: [jacqdev.com](https://jacqdev.com)  
+📸 Instagram: @jacqdev
 
