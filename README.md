@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="crie um banner para para tabuada.png" alt="Banner do Projeto">
-</p>
 
 # 🧠 Projeto Tabuada Quiz
 
