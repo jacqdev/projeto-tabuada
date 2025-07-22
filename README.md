@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="banner-tabuada.png" alt="Banner do Projeto">
+</p>
+
 # 🧠 Projeto Tabuada Quiz
 
 Um jogo interativo em **Java** para treinar a tabuada de forma divertida e desafiadora — com resultados que podem conter erros propositais para testar sua atenção!
