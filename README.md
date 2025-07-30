@@ -22,12 +22,14 @@ Um quiz interativo que desafia sua atenção e raciocínio! O jogo exibe contas 
 - HTML5
 - CSS3
 - JavaScript
+- java
+- terminal
 💡 Ideias futuras
 - Adicionar modo desafio com tempo ⏱️
 - Salvar histórico de partidas 📊
 - Estilizar com temas personalizáveis 🎨
 🙋‍♂️ Autor
-Desenvolvido por Thiago, com apoio do Copilot da Microsoft 💙
+Desenvolvido por jacqueline, com apoio do Copilot da Microsoft 💙
 
 
 ---
